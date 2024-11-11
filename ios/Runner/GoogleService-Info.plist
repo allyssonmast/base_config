@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCKsbAkcWnJB249II90zO2A4fvfLAXmK4Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>578451445151</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.allyssonmast.odoo</string>
+	<key>PROJECT_ID</key>
+	<string>agrocoop-ac5ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agrocoop-ac5ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:578451445151:ios:177aa7e251f11292fdd9aa</string>
+</dict>
+</plist>

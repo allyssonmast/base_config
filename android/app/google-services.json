@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578451445151",
+    "project_id": "agrocoop-ac5ac",
+    "storage_bucket": "agrocoop-ac5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578451445151:android:12db85899361875bfdd9aa",
+        "android_client_info": {
+          "package_name": "com.allyssonmast.odoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LqenfoAMs13BV8em9DF88M_EErM-j2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
